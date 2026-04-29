@@ -1,0 +1,11 @@
+sounddevice
+numpy
+SpeechRecognition
+PySide6
+PySide6-Multimedia
+langchain-community
+python-dotenv
+langchain-google-genai
+PySide6-Addons
+TTS
+pyttsx3 
