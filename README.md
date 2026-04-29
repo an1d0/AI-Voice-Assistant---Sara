@@ -33,7 +33,7 @@ The application features a clean, modern interface with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-voice-assistant.git
+   https://github.com/an1d0/AI-Voice-Assistant---Sara.git
    cd ai-voice-assistant
    ```
 
